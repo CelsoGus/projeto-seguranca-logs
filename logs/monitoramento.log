@@ -1,0 +1,38 @@
+2025-11-28 16:57:25,287 - __main__ - INFO - === INICIANDO COLETA DE LOGS ===
+2025-11-28 16:57:25,287 - __main__ - WARNING - Arquivo /var/log/auth.log não encontrado
+2025-11-28 16:57:25,287 - __main__ - INFO - Arquivo verificado: /etc/passwd
+2025-11-28 16:57:25,288 - __main__ - INFO - Arquivo verificado: /etc/hosts
+2025-11-28 16:57:25,289 - __main__ - INFO - Arquivo verificado: /etc/ssh/sshd_config
+2025-11-28 16:57:25,289 - __main__ - INFO - Verificados 3 arquivos do sistema
+2025-11-28 16:57:25,310 - __main__ - INFO - Monitorados 227 processos
+2025-11-28 16:57:25,310 - __main__ - INFO - Logs salvos em: /root/projeto-seguranca-logs/logs/logs_seguranca_20251128_165725.csv
+2025-11-28 16:57:25,310 - __main__ - INFO - === COLETA CONCLUÍDA: 4 eventos coletados ===
+2025-11-28 16:57:25,311 - __main__ - INFO - Arquivo gerado: /root/projeto-seguranca-logs/logs/logs_seguranca_20251128_165725.csv
+2025-11-28 16:58:29,793 - __main__ - INFO - === INICIANDO COLETA DE LOGS ===
+2025-11-28 16:58:29,793 - __main__ - WARNING - Arquivo /var/log/auth.log não encontrado
+2025-11-28 16:58:29,794 - __main__ - INFO - Arquivo verificado: /etc/passwd
+2025-11-28 16:58:29,794 - __main__ - INFO - Arquivo verificado: /etc/hosts
+2025-11-28 16:58:29,794 - __main__ - INFO - Arquivo verificado: /etc/ssh/sshd_config
+2025-11-28 16:58:29,794 - __main__ - INFO - Verificados 3 arquivos do sistema
+2025-11-28 16:58:29,807 - __main__ - INFO - Monitorados 227 processos
+2025-11-28 16:58:29,807 - __main__ - INFO - Logs salvos em: /root/projeto-seguranca-logs/logs/logs_seguranca_20251128_165829.csv
+2025-11-28 16:58:29,808 - __main__ - INFO - === COLETA CONCLUÍDA: 4 eventos coletados ===
+2025-11-28 16:58:29,808 - __main__ - INFO - Arquivo gerado: /root/projeto-seguranca-logs/logs/logs_seguranca_20251128_165829.csv
+2025-11-28 17:32:25,753 - __main__ - INFO - 🚀 INICIANDO COLETA COM GRAYLOG
+2025-11-28 17:32:25,789 - __main__ - INFO - 📤 Enviado para Graylog: Script de monitoramento iniciado
+2025-11-28 17:32:25,790 - __main__ - WARNING - Arquivo /var/log/auth.log não encontrado
+2025-11-28 17:32:25,790 - __main__ - INFO - 📤 Enviado para Graylog: Arquivo verificado: /etc/passwd
+2025-11-28 17:32:25,790 - __main__ - INFO - 📤 Enviado para Graylog: Arquivo verificado: /etc/hosts
+2025-11-28 17:32:25,792 - __main__ - INFO - 📤 Enviado para Graylog: Arquivo verificado: /etc/ssh/sshd_config
+2025-11-28 17:32:25,820 - __main__ - INFO - 💾 Backup CSV salvo: /root/projeto-seguranca-logs/logs/logs_seguranca_20251128_173225.csv
+2025-11-28 17:32:25,827 - __main__ - INFO - 📤 Enviado para Graylog: Coleta concluída: 3 eventos
+2025-11-28 17:32:25,827 - __main__ - INFO - ✅ COLETA CONCLUÍDA: 3 eventos
+2025-11-28 17:34:01,179 - __main__ - INFO - 🚀 INICIANDO COLETA COM GRAYLOG
+2025-11-28 17:34:01,180 - __main__ - INFO - 📤 Enviado para Graylog: Script de monitoramento iniciado
+2025-11-28 17:34:01,180 - __main__ - WARNING - Arquivo /var/log/auth.log não encontrado
+2025-11-28 17:34:01,180 - __main__ - INFO - 📤 Enviado para Graylog: Arquivo verificado: /etc/passwd
+2025-11-28 17:34:01,181 - __main__ - INFO - 📤 Enviado para Graylog: Arquivo verificado: /etc/hosts
+2025-11-28 17:34:01,181 - __main__ - INFO - 📤 Enviado para Graylog: Arquivo verificado: /etc/ssh/sshd_config
+2025-11-28 17:34:01,204 - __main__ - INFO - 💾 Backup CSV salvo: /root/projeto-seguranca-logs/logs/logs_seguranca_20251128_173401.csv
+2025-11-28 17:34:01,205 - __main__ - INFO - 📤 Enviado para Graylog: Coleta concluída: 3 eventos
+2025-11-28 17:34:01,205 - __main__ - INFO - ✅ COLETA CONCLUÍDA: 3 eventos

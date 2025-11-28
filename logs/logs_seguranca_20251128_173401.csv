@@ -1,0 +1,4 @@
+timestamp,tipo,mensagem,severidade,arquivo,processo
+2025-11-28T17:34:01.180598,INFO_ARQUIVO,Arquivo /etc/passwd verificado,BAIXA,/etc/passwd,
+2025-11-28T17:34:01.180844,INFO_ARQUIVO,Arquivo /etc/hosts verificado,BAIXA,/etc/hosts,
+2025-11-28T17:34:01.181172,INFO_ARQUIVO,Arquivo /etc/ssh/sshd_config verificado,BAIXA,/etc/ssh/sshd_config,

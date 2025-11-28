@@ -1,0 +1,5 @@
+timestamp,tipo,mensagem,severidade,arquivo,tamanho,fonte,total_processos
+2025-11-28T16:57:25.287712,INFO_ARQUIVO,Arquivo /etc/passwd - Tamanho: 3467 bytes - Modificado: 2025-11-28 16:18:42.792480,BAIXA,/etc/passwd,3467,,
+2025-11-28T16:57:25.288976,INFO_ARQUIVO,Arquivo /etc/hosts - Tamanho: 187 bytes - Modificado: 2025-08-20 09:39:40.542825,BAIXA,/etc/hosts,187,,
+2025-11-28T16:57:25.289057,INFO_ARQUIVO,Arquivo /etc/ssh/sshd_config - Tamanho: 3424 bytes - Modificado: 2025-05-09 09:40:49,BAIXA,/etc/ssh/sshd_config,3424,,
+2025-11-28T16:57:25.310559,INFO_SISTEMA,Total de processos em execução: 227,INFO,,,,227
